@@ -15,4 +15,4 @@
 声明：
 ---
 	如有需要，请参考实现的思路，消化成自己的东西，勿直接复制，会消化不良。 </br>
-	![weexSafeKeyboard](https://raw.githubusercontent.com/kalakalaxyz/weexSafeKeyboard/master/images/weexSafeKeyboard.png)
+	[![weexSafeKeyboard]](https://raw.githubusercontent.com/kalakalaxyz/weexSafeKeyboard/master/images/weexSafeKeyboard.png)
